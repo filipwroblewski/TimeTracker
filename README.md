@@ -92,9 +92,9 @@ _Installing and setting up app._
    
 2. Install required modules
 
-```sh
-pip install pywin32
-```
+  ```sh
+  pip install pywin32
+  ```
    <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
