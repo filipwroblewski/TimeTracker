@@ -89,6 +89,12 @@ _Installing and setting up app._
    ```sh
    git clone https://github.com/filipwroblewski/TimeTracker.git
    ```
+   
+2. Install required modules
+
+```sh
+pip install pywin32
+```
    <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
