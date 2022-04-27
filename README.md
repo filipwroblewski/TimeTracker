@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <video width="320" height="240" autoplay>
-    <source src="time_tracker.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 
   <h3 align="center">Time tracker</h3>
 
@@ -14,7 +10,7 @@
     Project of time tracking app to calculate time spent on different tasks.  
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://youtu.be/z3GCiZqRzxw">View Demo</a>
   </p>
 </div>
 
