@@ -143,6 +143,6 @@ Distributed without any License yet.
 
 ## Contact
 
-Filip Wróblewski - [@Twitter](https://twitter.com/wrobl_ewski) - filip.wroblewski.row@gmail.com
+<a href="https://twitter.com/wrobl_ewski" ><img src="https://img.shields.io/twitter/follow/wrobl_ewski.svg?style=social"></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
