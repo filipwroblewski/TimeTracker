@@ -10,7 +10,9 @@
     Project of time tracking app to calculate time spent on different tasks.  
     <br />
     <br />
-    <a href="https://youtu.be/z3GCiZqRzxw" target="_blank">View Project Demo</a>
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=z3GCiZqRzxw" target="_blank">
+	    <img src="http://img.youtube.com/vi/z3GCiZqRzxw/0.jpg" alt="YouTUbe video" width="240" height="180" border="0"/>
+    </a>
   </p>
 </div>
 
